@@ -1,0 +1,37 @@
+id: P501ECCB0
+initial_creation_type: input
+source_metadata:
+  title: Maitreyavyākaraṇa
+  language: sa
+  volumes:
+    036b2099af564c37b1671c304f7ba522:
+      title: colophon
+      base_file: colophon.txt
+      work_id: W60F43862
+    35bb4dd1c5ac4e2f806440b2c5499154:
+      title: nidāna
+      base_file: nidāna.txt
+      work_id: W0ADC1BB9
+    1250cb571e984455bd1d23449c668475:
+      title: §1-20
+      base_file: §1-20.txt
+      work_id: W2031D88A
+    f0c0cad63f48481f8b0170b8f93ad287:
+      title: §21-40
+      base_file: §21-40.txt
+      work_id: W1AFFC20E
+    7e7f66bb3a594fc082849ff981f6436f:
+      title: §41-60
+      base_file: §41-60.txt
+      work_id: WBC3F3043
+    239f6f929fcf4f9cb7fbc8ae42b92a24:
+      title: §61-80
+      base_file: §61-80.txt
+      work_id: W99F01718
+    dfc8bff7d28645499111fe5ac97044db:
+      title: §81-100
+      base_file: §81-100.txt
+      work_id: W70D2DC49
+  chapter_to_tile: {}
+created_at: '2022-03-01T21:41:35.144120'
+last_modified_at: '2022-03-01T21:41:35.144127'
